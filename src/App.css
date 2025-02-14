@@ -1,0 +1,49 @@
+.valentins-background{
+  height: 100vh;
+  /* background-color: #f9dee2; */
+  display: flex;
+  justify-content: center;
+}
+
+.valentins-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.image-wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.buttons-wrapper{
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.center-text{
+  margin: 20px 0px 40px 0px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.yes-button{
+  padding:20px 40px;
+  font-size: 30px;
+}
+
+.no-button{
+  padding:20px 40px;
+  font-size: 30px;
+}
+
+
+.image-class{
+  width: 300px;
+}
+
+
+
+
