@@ -73,6 +73,7 @@ function App() {
                   fontWeight: 'bold',
                   backgroundColor: '#90EE90',
                   cursor: "pointer",
+                  color: "black",
                 }}
                   onClick={handleYes}
                 >
@@ -85,6 +86,7 @@ function App() {
                   fontWeight: 'bold',
                   backgroundColor: '#FF69B4',
                   cursor: "pointer",
+                  color: "black",
                 }}
                   onClick={handleNoes}
                 >
