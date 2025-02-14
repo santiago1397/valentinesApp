@@ -41,6 +41,7 @@ function App() {
 
   const handleYes = () => {
     setIsYes(true)
+    setCurrentGif("gojo-happy.gif")
   }
 
   return (
